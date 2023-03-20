@@ -1,0 +1,102 @@
+.modal-wrapper {
+    height: 100%;
+    width: 100%;
+    top: 0;
+    left: 0;
+    position: absolute;
+    z-index: 9;
+    background: rgb(0, 0, 0, 0.3);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.custom-modal {
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    padding: 12px;
+    border-radius: 8px;
+    position: relative;
+}
+.custom-modal-show {
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    padding: 12px;
+    border-radius: 8px;
+    position: relative;
+    margin: 0 400px;
+}
+.hidden {
+    display: none;
+}
+#close-modal {
+    border: none;
+    position: absolute;
+    right: 10px;
+    top: 7px;
+    width: 20px;
+    height: 20px;
+    background-color: red;
+    border-radius: 50%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    font-weight: bold;
+}
+#exampleInputEmail4 {
+    margin-top: 20px;
+}
+#close-modal span {
+    display: block;
+    position: relative;
+    bottom: 2px;
+}
+#error {
+    color: red;
+}
+.catimg img {
+    width: 400px;
+    border-radius: 10px;
+}
+.infocat {
+    display: flex;
+}
+.catbody {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    padding: 20px;
+    font-size: 20px;
+}
+.catbody div {
+    margin-bottom: 20px;
+}
+.catbody span {
+    font-weight: bold;
+}
+.catname {
+    font-weight: bold;
+    text-align: center;
+    font-size: 30px;
+}
+
+.like img {
+    width: 100px;
+}
+input.name {
+    margin-top: 20px;
+}
+.custom-modal-edit {
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    padding: 12px;
+    border-radius: 8px;
+    position: relative;
+}
+input.id {
+    display: none;
+}
