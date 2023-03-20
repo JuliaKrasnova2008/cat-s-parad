@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://damion.club/uploads/posts/2022-03/1648029588_29-damion-club-p-kot-v-ochkakh-oboi-oboi-na-rabochii-stol-47.jpg" width="600"/>
+  <img src="https://damion.club/uploads/posts/2022-03/1648029588_29-damion-club-p-kot-v-ochkakh-oboi-oboi-na-rabochii-stol-47.jpg" width="900"/>
 </div>
 
 README
